@@ -8,8 +8,8 @@ Aplicativo mobile de controle financeiro desenvolvido com Python, Flet e Matplot
 ✅ Categorizar despesas  
 ✅ Salvar dados em JSON  
 ✅ Manter gastos após fechar o app  
-✅ Visualizar gráfico de gastos por categoria  
-✅ Dashboard com total gasto  
+✅ Visualizar gráficos por categoria  
+✅ Dashboard com gasto total  
 
 ## Tecnologias
 
@@ -22,7 +22,7 @@ Aplicativo mobile de controle financeiro desenvolvido com Python, Flet e Matplot
 
 ## Como executar
 
-Instale as dependências:
+Instalar dependências:
 
 ```bash
 pip install -r requirements.txt
