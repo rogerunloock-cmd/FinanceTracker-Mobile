@@ -11,6 +11,10 @@ Aplicativo mobile de controle financeiro desenvolvido com Python, Flet e Matplot
 ✅ Visualizar gráficos por categoria  
 ✅ Dashboard com gasto total  
 
+## Preview do App
+
+![App](assets/screenshots/app.png)
+
 ## Tecnologias
 
 - Python
@@ -24,5 +28,12 @@ Aplicativo mobile de controle financeiro desenvolvido com Python, Flet e Matplot
 
 Instalar dependências:
 
-```bash
 pip install -r requirements.txt
+
+Executar:
+
+python main.py
+
+## Autor
+
+Roger Belchior Marcilio
